@@ -25,9 +25,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
