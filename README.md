@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -39,4 +40,9 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
