@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/Riya2522-Raj/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
 | [2625-increment-submatrices-by-one](https://github.com/Riya2522-Raj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riya2522-Raj/LeetCode/tree/master/0002-add-two-numbers) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Riya2522-Raj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
