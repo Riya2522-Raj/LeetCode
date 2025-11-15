@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/Riya2522-Raj/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Riya2522-Raj/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
+| [2625-increment-submatrices-by-one](https://github.com/Riya2522-Raj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/Riya2522-Raj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/Riya2522-Raj/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
