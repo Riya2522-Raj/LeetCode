@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya2522-Raj/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0013-roman-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riya2522-Raj/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0013-roman-to-integer) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
