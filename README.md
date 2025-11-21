@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riya2522-Raj/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Riya2522-Raj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riya2522-Raj/LeetCode/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/Riya2522-Raj/LeetCode/tree/master/0198-house-robber) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Riya2522-Raj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Riya2522-Raj/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
