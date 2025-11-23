@@ -44,6 +44,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/Riya2522-Raj/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -67,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/Riya2522-Raj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riya2522-Raj/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Riya2522-Raj/LeetCode/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
