@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riya2522-Raj/LeetCode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -60,6 +61,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riya2522-Raj/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riya2522-Raj/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Riya2522-Raj/LeetCode/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -104,4 +106,16 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
