@@ -37,6 +37,7 @@
 | [0002-add-two-numbers](https://github.com/Riya2522-Raj/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Riya2522-Raj/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Riya2522-Raj/LeetCode/tree/master/0070-climbing-stairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Riya2522-Raj/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
@@ -49,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Riya2522-Raj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Riya2522-Raj/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Riya2522-Raj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Riya2522-Raj/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Riya2522-Raj/LeetCode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Riya2522-Raj/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
