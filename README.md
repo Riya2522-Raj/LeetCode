@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Riya2522-Raj/LeetCode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Riya2522-Raj/LeetCode/tree/master/0051-n-queens) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Riya2522-Raj/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Riya2522-Raj/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Riya2522-Raj/LeetCode/tree/master/0322-coin-change) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Riya2522-Raj/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Riya2522-Raj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Stack
 |  |
 | ------- |
